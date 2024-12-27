@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- AppCompat theme for the app -->
+    <style name="Theme.ColorApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- You can customize other styles here if needed -->
+    </style>
+
+</resources>
